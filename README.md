@@ -37,7 +37,7 @@ As someone who is learning to code on their own, I thought this application woul
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Reflection
-This project definitely felt like a next step in my journey to Javascript. For the first time I was able to use my code to interact with the browser and collect data using an API and localStorage. Additionally, I learned how to deploy the extension from Chrome and was able to see and use it right in my browser which I thought was extremely cool! Finally, doing this project finally prompted me to look into how to write a good "README" file, which I will need to implement in my prior projects as well. 
+This project definitely felt like a next step in my journey to Javascript. I learned how to save an input value and use it in my code. This was a limitation for my [Blackjack Game](https://github.com/yh63935/blackjack-game), where I wasn't sure how I would store an input value, so learning that and implementing in this project was very helpful! For the first time I was able to use my code to interact with the browser and collect data using an API and localStorage. Additionally, I learned how to deploy the extension from Chrome and was able to see and use it right in my browser which I thought was extremely cool! Finally, doing this project finally prompted me to look into how to write a good "README" file, which I will need to implement in my prior projects as well. 
 
 ### Built With
 
