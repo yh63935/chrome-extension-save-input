@@ -29,7 +29,7 @@ Chrome extension application used to save websites. You can either save the webs
 **Note: I am not associated with Scrimba, it is one of the resources that I am using currently to learn Javascript**
 
 ### Motivation
-As someone who is learning to code on their own, I thought this application would be useful for saving sites that I had researched for learning Javascript. 
+As someone who is learning to code on their own, I thought this application would be useful for saving sites that I had researched for learning Javascript. In the screenshot below, I saved Scrimba and Odin project to the extension.
 
 ![image](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
 
