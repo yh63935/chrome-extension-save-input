@@ -1,3 +1,6 @@
+This is a chrome extension app that can save urls that you are interested in. 
+This project was a project provided in Scrimba that I followed along with (no modifications from me this time). 
+
 # co9a446609df2474539d99006
 
 Quick start:
