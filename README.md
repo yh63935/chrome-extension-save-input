@@ -34,7 +34,7 @@ As someone who is learning to code on their own, I thought this application woul
 ![image](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ### Reflection
 This project definitely felt like a next step in my journey to Javascript. I learned how to save an input value and use it in my code. This was a limitation for my [Blackjack Game](https://github.com/yh63935/blackjack-game), where I wasn't sure how I would store an input value, so learning that and implementing in this project was very helpful! For the first time I was able to use my code to interact with the browser and collect data using an API and localStorage. Additionally, I learned how to deploy the extension from Chrome and was able to see and use it right in my browser which I thought was extremely cool! Finally, doing this project finally prompted me to look into how to write a good "README" file, which I will need to implement in my prior projects as well. 
@@ -44,7 +44,7 @@ This project definitely felt like a next step in my journey to Javascript. I lea
 * HTML
 * CSS
 * Javascript
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -84,7 +84,7 @@ Like mentioned above, this website tracker can be used to save various websites 
 
 ![image](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -94,7 +94,7 @@ Amelia Ho - [Amelia Ho Linkedin](https://www.linkedin.com/in/ameliahoyp/))
 
 Project Link: [https://github.com/yh63935/chrome-extension-save-input](https://github.com/yh63935/chrome-extension-save-input)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -111,7 +111,7 @@ At Scrimba our goal is to create the best possible coding school at the cost of 
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
 The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
