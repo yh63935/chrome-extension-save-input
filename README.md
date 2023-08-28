@@ -103,13 +103,7 @@ Project Link: [https://github.com/yh63935/chrome-extension-save-input](https://g
 
 * [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3](https://meakaakka.medium.com/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-* [https://scrimba.com/learn/learnjavascript](https://scrimba.com/learn/learnjavascript)
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+* [https://scrimba.com/playlist/pPD7Kt4](https://scrimba.com/playlist/pPD7Kt4)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
