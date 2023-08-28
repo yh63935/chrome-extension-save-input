@@ -26,6 +26,7 @@
 
 ### Description
 Chrome extension application used to save websites. You can either save the websites from an active tab or manually enter it yourself. This is a Scrimba project that I coded while following along with their course to [learn Javascript](https://scrimba.com/learn/learnjavascript). 
+
 **Note: I am not associated with Scrimba, it is one of the resources that I am using currently to learn Javascript**
 
 ### Motivation
