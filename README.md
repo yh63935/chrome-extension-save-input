@@ -32,7 +32,7 @@ Chrome extension application used to save websites. You can either save the webs
 ### Motivation
 As someone who is learning to code on their own, I thought this application would be useful for saving sites that I had researched for learning Javascript. In the screenshot below, I saved Scrimba and Odin project to the extension.
 
-![image](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
+![website-tracker-app-screenshot](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
 
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
@@ -60,21 +60,21 @@ $ npm start
 To run the application in Chrome: 
 - Go to [chrome extensions](chrome://extensions)
 - Turn on developer mode (top right of browser)
-<img width="975" alt="image" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/3df34935-5d5f-47b2-b45c-d94a4b540955">
+<img width="975" alt="developer-mode-screenshot" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/3df34935-5d5f-47b2-b45c-d94a4b540955">
 
 - Load unpacked to upload your extension (top left of browser)
-<img width="484" alt="image" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/ecbabe58-4c73-473d-a1f7-ae8118b07fdc">
+<img width="484" alt="load-unpacked-screenshot" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/ecbabe58-4c73-473d-a1f7-ae8118b07fdc">
 
 - After loading the extension, you should be able to see the extension in the list of extensions
-<img width="469" alt="image" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/26092060-83ff-4b95-ba14-851225bcb8bc">
+<img width="469" alt="list-of-extensions-screenshot" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/26092060-83ff-4b95-ba14-851225bcb8bc">
 
 
 - Open the extension by pressing the extensions icon (top right of chrome tab)
-<img width="270" alt="image" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/9ab9b336-56ce-46f6-a4cd-60b1881ea94a">
+<img width="270" alt="extensions-icon-screenshot" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/9ab9b336-56ce-46f6-a4cd-60b1881ea94a">
 
 
 - Select the website tracker app and start using the extension!
-<img width="362" alt="image" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/1ca2fa80-8890-462e-9bc0-e64a31d436bc">
+<img width="362" alt="website-tracker-app-screenshot" src="https://github.com/yh63935/chrome-extension-save-input/assets/120755144/1ca2fa80-8890-462e-9bc0-e64a31d436bc">
 
 
 
@@ -83,7 +83,7 @@ To run the application in Chrome:
 
 Like mentioned above, this website tracker can be used to save various websites or input. In my case, I found it helpful to save sites for learning Javascript that I would want to access later. 
 
-![image](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
+![website-tracker-app-screenshot](https://github.com/yh63935/chrome-extension-save-input/assets/120755144/d956f28e-a8c0-422a-a3d4-c7aa202c6333)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
