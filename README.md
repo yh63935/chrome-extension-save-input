@@ -91,9 +91,9 @@ Like mentioned above, this website tracker can be used to save various websites 
 <!-- CONTACT -->
 ## Contact
 
-Amelia Ho - [Amelia Ho Linkedin](https://www.linkedin.com/in/ameliahoyp/))
+Amelia Ho - [Amelia Ho Linkedin](https://www.linkedin.com/in/ameliahoyp/)
 
-Project Link: [https://github.com/yh63935/website-tracker-app-chrome-extension](https://github.com/yh63935/website-tracker-app-chrome-extension)
+Project Link: [https://github.com/yh63935/website-tracker-chrome-extension-app](https://github.com/yh63935/website-tracker-chrome-extension-app)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
