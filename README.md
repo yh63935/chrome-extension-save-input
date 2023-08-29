@@ -93,7 +93,7 @@ Like mentioned above, this website tracker can be used to save various websites 
 
 Amelia Ho - [Amelia Ho Linkedin](https://www.linkedin.com/in/ameliahoyp/))
 
-Project Link: [https://github.com/yh63935/chrome-extension-save-input](https://github.com/yh63935/chrome-extension-save-input)
+Project Link: [https://github.com/yh63935/website-tracker-app-chrome-extension](https://github.com/yh63935/website-tracker-app-chrome-extension)
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
